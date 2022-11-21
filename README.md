@@ -13,10 +13,10 @@ Screenshot Gallery
 
 Elon:
 
-![](\Screenshots\Elon.png)
+![](/Screenshots/Elon.png)
 
 Belson:
-![](\Screenshots\Gavin.png)
+![](/Screenshots/Gavin.png)
 
 
 Installation
