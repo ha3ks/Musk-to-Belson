@@ -28,3 +28,5 @@ Enable Developer Mode > 'Load Unpacked' > Open Downloaded File Directory
 I am working on an Chrome extension .crx file but I'm not the most amazing programmer.
 
 I will link the files/app stores once I have created them.
+
+My dream is to bring this to all web browsers... as it should be!
