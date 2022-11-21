@@ -6,7 +6,7 @@ Musk-to-Belson
 Chrome extension that replaces occurrences of 'Elon Musk' with 'Gavin Belson' because, at this point whats the difference.
 
 Note:
-This is completey inspired by the work of Steven Frank who made 'Cloud to Butt'.
+This is completey inspired by the work of Steven Frank who made 'Cloud to Butt' - https://github.com/panicsteve 
 
 Screenshot Gallery
 ------------------
